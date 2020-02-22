@@ -1,0 +1,3 @@
+[submodule "talvos"]
+	path = talvos
+	url = https://github.com/talvos/talvos
